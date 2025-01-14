@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Tegen Hilker Readman`
+- **CCID:** `hilkerre`
 
 ## References and Resources
 
