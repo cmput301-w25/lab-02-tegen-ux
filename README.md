@@ -8,9 +8,15 @@
 
 ## References and Resources
 
-[I had to follow this example... but I completed it before my lab section so maybe I didn't need it.](https://eclass.srv.ualberta.ca/pluginfile.php/11705542/mod_label/intro/CMPUT301_LAB_2_INSTRUCTIONS.pdf)
-[I used this as well.](/https://stackoverflow.com/a/70769157)
-[I used this to help me](https://www.youtube.com/watch?v=Eiw5kRObUS0)
+[I had to follow this example... but I completed it before my lab section, so maybe I didn't need it. -- Turns out I gave myself a false sense of hope](https://eclass.srv.ualberta.ca/pluginfile.php/11705542/mod_label/intro/CMPUT301_LAB_2_INSTRUCTIONS.pdf)
+
+[I followed this a bit to make my code look better, as well as more action stuff.](/https://stackoverflow.com/a/70769157)
+
+[I used this to help me with the action stuff.](https://www.youtube.com/watch?v=Eiw5kRObUS0)
+
+[I used this to figure out how to use an array adapter, as my list view wouldn't update when I added something new to the array.](https://developer.android.com/reference/android/widget/ArrayAdapter)
+
+[This was also used to clean up my UI.](https://stackoverflow.com/a/21264550)
 ## Verbal Collaboration
 
 | Student Name | CCID      |
