@@ -1,7 +1,6 @@
 package com.example.listycity;
 
 import android.os.Bundle;
-import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -100,15 +99,16 @@ public class MainActivity extends AppCompatActivity {
             cancelButton.setVisibility(View.GONE);
 
         });
-
-        // https://stackoverflow.com/a/21264550
-        newCityInput.setOnFocusChangeListener(new View.OnFocusChangeListener() {
-            public void onFocusChange(View v, boolean hasFocus) {
-                if (hasFocus)
-                    newCityInput.setHint("");
-                else
-                    newCityInput.setHint("Your hint");
-            }
+        //Taken from https://stackoverflow.com/a/21264550
+        // Authored By Rohan Kandwal
+        // Edited by Yehuda Clinton
+        // Taken By Tegen Hilker Readman
+        // Taken on 2024-01-16
+        newCityInput.setOnFocusChangeListener((v, hasFocus) -> {
+            if (hasFocus)
+                newCityInput.setHint("");
+            else
+                newCityInput.setHint("Your hint");
         });
     }
 }
