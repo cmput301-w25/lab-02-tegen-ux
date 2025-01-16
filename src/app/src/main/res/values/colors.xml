@@ -2,4 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="screenBackground">#2196F3</color>
+    <color name="buttonBackground">#673AB7</color>
+    <color name="screenBackground2">#26C6DA</color>
+    # Taken from https://developer.android.com/develop/ui/views/theming/themes
+    # Authored by Google employee
+    # Taken by Tegen Hilker Readman
+    # Taken on: 2024-01-13
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="nicePurple">#673AB7</color>
 </resources>
