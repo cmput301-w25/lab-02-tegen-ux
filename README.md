@@ -17,6 +17,8 @@
 [I used this to figure out how to use an array adapter, as my list view wouldn't update when I added something new to the array.](https://developer.android.com/reference/android/widget/ArrayAdapter)
 
 [This was also used to clean up my UI.](https://stackoverflow.com/a/21264550)
+
+[I actually hate ui design so much, literally all morning I was trying to figure out why my list view on the app wouldn't update when the list is longer than the screen so... it just turns out my constraints weren't properly good but I still included this method into my MainActivity.java](https://developer.android.com/reference/android/widget/AbsListView#invalidateViews())
 ## Verbal Collaboration
 
 | Student Name | CCID      |
